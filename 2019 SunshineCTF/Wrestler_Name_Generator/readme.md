@@ -83,7 +83,8 @@ Your Wrestler Name Is:
 sun{1_l0v3_hulk_7h3_3x73rn4l_3n717y_h064n} "The Brute" okok
 
 
-REFS:
+##### REFS:
+
 https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/ 
 https://gist.github.com/staaldraad/01415b990939494879b4 
 https://medium.com/bugbountywriteup/devoops-an-xml-external-entity-xxe-hackthebox-walkthrough-fb5ba03aaaa2 
